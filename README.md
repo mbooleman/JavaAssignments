@@ -27,4 +27,4 @@ Based on a string input have the computer solve the sudoku for you. The linear p
 ## Ray Tracer (advanced)
 A Ray tracer was created, not fully finished (especially the code can get some clean up, not done due to time constraints and going on in the traineeship to new assignments) 
 Implement how rays of light reflect (if they intersect) on orbs in 3d and fall on a screen from the point of view of an observer. 
-* Create a project struc
+
